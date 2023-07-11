@@ -3,12 +3,14 @@
   margin:0;
   padding:0;
 }
-nav{
+.container{
   background-color:#D3D3D3;
   padding:10px;
 }
-ul li{
-  display:inline;
+ul{
+  display:flex;
+}
+li{
   margin-right:1rem;
   list-style:none;
 }
